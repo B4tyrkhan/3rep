@@ -1,0 +1,17 @@
+[33mcommit b8c5b3182a236b73eabdfafcce4a4cea4c172258[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: B4tyrkhan <darnix79@gmail.com>
+Date:   Thu Oct 31 12:22:56 2024 +0500
+
+    Add basic styles for the project
+
+[33mcommit 0cf0a582b2e1b0616e5a26eb22c76a063537e79a[m
+Author: B4tyrkhan <darnix79@gmail.com>
+Date:   Thu Oct 31 12:21:58 2024 +0500
+
+    Add basic index.html file
+
+[33mcommit 72ed78338bbff68a31bf32567aaa77eac6ee6461[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: B4tyrkhan <darnix79@gmail.com>
+Date:   Thu Oct 31 12:18:37 2024 +0500
+
+    Initial commit
